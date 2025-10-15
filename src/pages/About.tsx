@@ -101,17 +101,19 @@ export default function AboutMe() {
                 <section className="space-y-4">
                     <h2 className="text-2xl font-semibold">Skills</h2>
                     <div className="flex flex-wrap gap-2">
-                        <Badge>JavaScript</Badge>
                         <Badge>TypeScript</Badge>
                         <Badge>Go</Badge>
+                        <Badge>Tailwind</Badge>
                         <Badge>Python</Badge>
-                        <Badge>Flask</Badge>
+                        <Badge>Shadcn</Badge>
                         <Badge>MSSQL</Badge>
                         <Badge>PostgreSQL</Badge>
                         <Badge>MySQL</Badge>
                         <Badge>SQLite</Badge>
                         <Badge>HTML</Badge>
                         <Badge>CSS</Badge>
+                        <Badge>JavaScript</Badge>
+                        <Badge>Flask</Badge>
                         <Badge>Bootstrap</Badge>
                     </div>
                 </section>
